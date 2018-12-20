@@ -1,6 +1,6 @@
 {
   "name": "q0rban",
-  "version": "0.0.0-development",
+  "version": "0.0.1-development",
   "description": "A personal card for James Sansbury (@q0rban)",
   "bin": {
     "q0rban": "./bin/q0rban.sh"
